@@ -1,5 +1,5 @@
 if (true != false) {
-	return true;
+	print('Assim é mais simples');
 } else {
-	return false;
+	return 'Erro';
 
